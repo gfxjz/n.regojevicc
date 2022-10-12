@@ -2,7 +2,6 @@
 ## Extraordinary Instagram Tools!
 ### Instagram bot,auto follower
 
-Recoded: https://github.com/anshu189/inshackle_v2
 
 
 ### Features:
